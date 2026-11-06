@@ -34,4 +34,4 @@ Si le serveur tourne déjà, la commande ouvre simplement le navigateur sur le d
 
 ## Licence
 
-GNU GPL v3 (`LICENSE`).
+[AGPL-3.0](LICENSE) — libre d'utiliser, de modifier et de partager ; toute version modifiée, distribuée ou proposée en ligne doit rester open source sous la même licence. Une licence commerciale est disponible pour un usage en code fermé : anselme8@icloud.com.
